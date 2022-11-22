@@ -4,4 +4,7 @@ uvicorn app:app --host 0.0.0.0 --port 80
 
 https://realpython.com/python-virtual-environments-a-primer/
 
+
+# Building docker image
 https://docs.docker.com/language/python/build-images/
+
